@@ -8,7 +8,8 @@ Ahora, en el emocionante mundo de la programación 💻, encuentro una fascinaci
 - Desarrollo web front-end y back-end.
 - Resolución creativa de problemas 🧩.
 - Análisis lógico y pensamiento crítico 🤔.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,vscode,github,md,figma)](https://skillicons.dev)
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,vscode,github,md,figma)](https://skillicons.dev)
 
 Estoy emocionada por lo que el futuro de la tecnología tiene reservado y cómo puedo contribuir a dar forma a este emocionante camino. ¡Hablemos y colaboremos en proyectos interesantes! 👥
 
