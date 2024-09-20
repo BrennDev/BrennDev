@@ -4,9 +4,9 @@ Soy desarrolladora web 👩‍💻 con un enfoque creativo y lógico. Mi formaci
 
 Habilidades clave:
 
--Desarrollo web front-end
--Resolución creativa de problemas 🧩
--Análisis lógico y pensamiento crítico 🤔
+- Desarrollo web front-end
+- Resolución creativa de problemas 🧩
+- Análisis lógico y pensamiento crítico 🤔
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,nodejs,vscode,github,md,figma)](https://skillicons.dev)
 
